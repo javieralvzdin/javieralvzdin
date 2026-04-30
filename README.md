@@ -51,7 +51,9 @@
 <br>
 
 <h2 align="center">Estadísticas de GitHub 📊</h2>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" width="40" />
+</p>
 <table align="center" border="0">
   <tr>
     <!-- Columna de Stats y Streak -->
@@ -67,6 +69,4 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" width="40" />
-</p>
+
