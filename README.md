@@ -13,7 +13,6 @@
 <!--Intro end-->
   </p>
 <br>
-
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
@@ -25,9 +24,7 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-
 ...
-
 <h2>GitHub  <img src="https://skillicons.dev/icons?i=github&perline=12" />
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -35,7 +32,6 @@
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
-
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javieralvzdin&theme=dark&hide_border=false" /> 
