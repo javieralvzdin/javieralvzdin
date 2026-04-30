@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/Ver_Capturas_(PDF)-D14836?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" />
       </a>
       <p>
-        <code>Java</code> <code>Android Studio</code> <code>Firebase</code>
+        <code>Java</code> <code>Android Studio</code> 
       </p>
     </td>
     <!-- PROYECTO 2: Branding Barbería -->
@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/Diseño-Finalizado-blue?style=for-the-badge" alt="Status" />
       <p>Diseño de identidad visual. Pulsa en <b>Proyecto</b> para ver los archivos o en los iconos para ver el negocio:</p>
       <!-- BOTÓN AL REPO DE DISEÑO -->
-      <a href="URL_DE_TU_NUEVO_REPO_BARBERIA" target="_blank">
+      <a href="https://github.com/javieralvzdin/BarberStreet" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
       </a>
       &nbsp;
@@ -57,17 +57,17 @@
       <img src="https://img.shields.io/badge/AI-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
       <p><b>Encuéntralo en:</b></p>
       <!-- BOTONES DE BOOKSY Y MAPAS -->
-      <a href="URL_DE_BOOKSY" target="_blank">
+      <a href="https://booksy.com/es-es/88556_barber-street_barberia_44760_salamanca#ba_s=sr_1" target="_blank">
         <img src="https://img.shields.io/badge/Booksy-C32032?style=flat-square&logo=booksy&logoColor=white" alt="Booksy" />
       </a>
-      <a href="URL_DE_GOOGLE_MAPS" target="_blank">
+      <a href="https://maps.app.goo.gl/cY13YXtfM9Yv3cif7" target="_blank">
         <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="G Maps" />
       </a>
-      <a href="URL_DE_APPLE_MAPS" target="_blank">
+      <a href="https://maps.apple/p/b0SeiIhFQREtwp" target="_blank">
         <img src="https://img.shields.io/badge/Apple_Maps-000000?style=flat-square&logo=apple&logoColor=white" alt="A Maps" />
       </a>
       <p>
-        <code>Branding</code> <code>Vectorizado</code> <code>Mockups</code>
+        <code>Branding</code> <code>Mockups</code>
       </p>
     </td>
   </tr>
