@@ -20,7 +20,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,dart,supabase,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,supabase,sql,ubuntu,linux,ps&perline=12" />
   </a>
 </p>
 <br>
