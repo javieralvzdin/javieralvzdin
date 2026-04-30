@@ -1,10 +1,13 @@
 <h1 align="center">Hola 👋  soy Javier Álvarez Diñeiro </h1> 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/javieralvzdin/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="javieralvzdin"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=javier.alvzdin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a></a>  </p>
-<br>
+  <a href="https://www.linkedin.com/in/javieralvzdin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=javier.alvzdin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
