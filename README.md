@@ -25,7 +25,7 @@
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 ...
-<h2>GitHub  <img src="https://skillicons.dev/icons?i=github&perline=12" />
+<h2><img src="https://skillicons.dev/icons?i=github&perline=12" />
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
