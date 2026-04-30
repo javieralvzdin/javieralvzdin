@@ -23,8 +23,36 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-...
+<h2>Algunos proyectos 👨🏻‍💻</h2>
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 Quiz App - Test Master</h3>
+      <img src="https://img.shields.io/badge/Status-Completado-green?style=for-the-badge" alt="Status" />
+      <p>Aplicación interactiva para realizar exámenes tipo test. Incluye sistema de puntuación y revisión de errores.</p>
+      <a href="LINK_A_TU_REPOSITORIO" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Código-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+      </a>
+      <a href="LINK_A_TU_PDF" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Capturas_(PDF)-D14836?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="PDF" />
+      </a>
+      <p>
+        <code>Java</code> <code>Android Studio</code> <code>Firebase</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Segundo Proyecto</h3>
+      <p>Descripción de tu otro proyecto o repositorio destacado para completar la tabla.</p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Código-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+      </a>
+      <p>
+        <code>HTML</code> <code>CSS</code> <code>JS</code>
+      </p>
+    </td>
+  </tr>
+</table>
 <h2><img src="https://skillicons.dev/icons?i=github&perline=12" />
 <!--- stats & Trophy (start) -->
 <p align="center">
