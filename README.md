@@ -27,7 +27,7 @@
 
 <table border="0">
   <tr>
-    <!-- PROYECTO 1 -->
+    <!-- PROYECTO 1: Ponte a Prueba -->
     <td width="50%" valign="top">
       <h3>📝 Quiz App - PonteAprueba</h3>
       <img src="https://img.shields.io/badge/Status-Completado-green?style=for-the-badge" alt="Status" />
@@ -43,16 +43,31 @@
         <code>Java</code> <code>Android Studio</code> <code>Firebase</code>
       </p>
     </td>
-    <!-- PROYECTO 2 -->
+    <!-- PROYECTO 2: Branding Barbería -->
     <td width="50%" valign="top">
       <h3>💈 Logo & Branding - Barbería</h3>
       <img src="https://img.shields.io/badge/Diseño-Finalizado-blue?style=for-the-badge" alt="Status" />
-      <p>Diseño de logotipo e identidad visual realizado desde cero para una barbería profesional.</p>
-      <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+      <p>Diseño de identidad visual. Pulsa en <b>Proyecto</b> para ver los archivos o en los iconos para ver el negocio:</p>
+      <!-- BOTÓN AL REPO DE DISEÑO -->
+      <a href="URL_DE_TU_NUEVO_REPO_BARBERIA" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
+      </a>
       &nbsp;
-      <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+      <img src="https://img.shields.io/badge/PS-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+      <p><b>Encuéntralo en:</b></p>
+      <!-- BOTONES DE BOOKSY Y MAPAS -->
+      <a href="URL_DE_BOOKSY" target="_blank">
+        <img src="https://img.shields.io/badge/Booksy-C32032?style=flat-square&logo=booksy&logoColor=white" alt="Booksy" />
+      </a>
+      <a href="URL_DE_GOOGLE_MAPS" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="G Maps" />
+      </a>
+      <a href="URL_DE_APPLE_MAPS" target="_blank">
+        <img src="https://img.shields.io/badge/Apple_Maps-000000?style=flat-square&logo=apple&logoColor=white" alt="A Maps" />
+      </a>
       <p>
-        <code>Vectorizado</code> <code>Branding</code> <code>Mockups</code>
+        <code>Branding</code> <code>Vectorizado</code> <code>Mockups</code>
       </p>
     </td>
   </tr>
