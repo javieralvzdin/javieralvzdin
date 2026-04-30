@@ -43,16 +43,16 @@
         <code>Java</code> <code>Android Studio</code> <code>Firebase</code>
       </p>
     </td>
-
-    <!-- PROYECTO 2 (Opcional o Relleno) -->
+    <!-- PROYECTO 2 -->
     <td width="50%" valign="top">
-      <h3>🚀 Próximo Proyecto</h3>
-      <p>Descripción de tu otro proyecto o repositorio destacado para completar la tabla de forma simétrica.</p>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Código-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
-      </a>
+      <h3>💈 Logo & Branding - Barbería</h3>
+      <img src="https://img.shields.io/badge/Diseño-Finalizado-blue?style=for-the-badge" alt="Status" />
+      <p>Diseño de logotipo e identidad visual realizado desde cero para una barbería profesional.</p>
+      <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
       <p>
-        <code>HTML</code> <code>CSS</code> <code>JS</code>
+        <code>Vectorizado</code> <code>Branding</code> <code>Mockups</code>
       </p>
     </td>
   </tr>
