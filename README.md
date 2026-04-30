@@ -27,23 +27,27 @@
 
 <table border="0">
   <tr>
+    <!-- PROYECTO 1 -->
     <td width="50%" valign="top">
-      <h3>📝 Quiz App - Test Master</h3>
+      <h3>📝 Quiz App - PonteAprueba</h3>
       <img src="https://img.shields.io/badge/Status-Completado-green?style=for-the-badge" alt="Status" />
       <p>Aplicación interactiva para realizar exámenes tipo test. Incluye sistema de puntuación y revisión de errores.</p>
-      <a href="LINK_A_TU_REPOSITORIO" target="_blank">
+      <a href="https://github.com/javieralvzdin/PonteAprueba" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Código-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
       </a>
-      <a href="LINK_A_TU_PDF" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Capturas_(PDF)-D14836?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="PDF" />
+      &nbsp;
+      <a href="https://raw.githubusercontent.com/javieralvzdin/PonteAprueba/master/documentation/PonteApruebaDoc.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Capturas_(PDF)-D14836?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" />
       </a>
       <p>
         <code>Java</code> <code>Android Studio</code> <code>Firebase</code>
       </p>
     </td>
+
+    <!-- PROYECTO 2 (Opcional o Relleno) -->
     <td width="50%" valign="top">
-      <h3>🚀 Segundo Proyecto</h3>
-      <p>Descripción de tu otro proyecto o repositorio destacado para completar la tabla.</p>
+      <h3>🚀 Próximo Proyecto</h3>
+      <p>Descripción de tu otro proyecto o repositorio destacado para completar la tabla de forma simétrica.</p>
       <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Código-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" />
       </a>
@@ -53,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 <h2><img src="https://skillicons.dev/icons?i=github&perline=12" />
 <!--- stats & Trophy (start) -->
 <p align="center">
