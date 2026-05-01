@@ -49,7 +49,7 @@
       <h3>⚽ Kit Design - "Socio" Edition</h3>
       <img src="https://img.shields.io/badge/Diseño-Finalizado-blue?style=for-the-badge" alt="Status" />
       <p>Concept kit de fútbol profesional con diseño split de alto contraste. Incluye patrones geométricos y detalles en oro.</p>
-      <a href="https://github.com/javieralvzdin/SocioKitDesign" target="_blank"><img src="https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://raw.githubusercontent.com/javieralvzdin/SocioKitDesign/main/Jersey_Showcase_Minimal.pdf" target="_blank"><img src="https://img.shields.io/badge/Ver_Capturas_(PDF)-D14836?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" /></a>
+      <a href="https://github.com/javieralvzdin/EquipacionUnionistas26-28" target="_blank"><img src="https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://raw.githubusercontent.com/javieralvzdin/EquipacionUnionistas26-28/blob/main/equipacion.pdf" target="_blank"><img src="https://img.shields.io/badge/Ver_Capturas_(PDF)-D14836?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" /></a>
       <p>
         <code>Graphic Design</code> <code>Photoshop</code> <code>Apparel</code>
       </p>
