@@ -67,13 +67,13 @@
   <tr>
     <!-- Stats and Streak Column -->
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=javieralvzdin&theme=dark&show_icons=true&count_private=true" alt="Javier's Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=javieralvzdin&theme=dark&show_icons=true&count_private=true" alt="Javier's Stats" />
       <br><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=javieralvzdin&theme=dark" alt="Javier's Streak" />
     </td>
     <!-- Most Used Languages Column -->
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javieralvzdin&theme=dark&layout=compact&langs_count=10" alt="Most Used Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=javieralvzdin&theme=dark&layout=compact&langs_count=10" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
