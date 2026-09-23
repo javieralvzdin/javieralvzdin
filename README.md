@@ -24,6 +24,26 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
+      <h3>🏎️ Assetto Corsa Real-Time Telemetry</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" alt="Status" />
+      <p>Real-time telemetry pipeline for Assetto Corsa. Extracts raw data straight from the sim's physics engine via a custom C library, processes it in Python, and visualizes it live on a Grafana dashboard backed by InfluxDB. Fully containerized with Docker.</p>
+      <a href="https://github.com/javieralvzdin/ac-telemetry" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://ac-telemetry.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Documentation-000000?style=flat-square&logo=vercel&logoColor=white" alt="Docs" /></a>
+      <p>
+        <code>C</code> <code>Python</code> <code>Docker</code> <code>Grafana</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏁 F1 Advanced Strategy Predictive Engine</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" alt="Status" />
+      <p>Professional-grade F1 race strategy simulator built with Python. Runs Monte Carlo simulations to evaluate and compare pit-stop strategies under dynamic race conditions (tire degradation, fuel weight, weather, safety car). Fully containerized with Docker.</p>
+      <a href="https://github.com/javieralvzdin/strategy-sim" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://raw.githubusercontent.com/javieralvzdin/strategy-sim/main/strategy-sim.pdf" target="_blank"><img src="https://img.shields.io/badge/View_Screenshots_(PDF)-D14836?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" /></a>
+      <p>
+        <code>Python</code> <code>Streamlit</code> <code>Docker</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📝 Quiz App - PonteAprueba</h3>
       <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" alt="Status" />
       <p>Interactive application for taking multiple-choice tests. Includes a scoring system and error review.</p>
@@ -41,26 +61,6 @@
       <a href="https://booksy.com/es-es/88556_barber-street_barberia_44760_salamanca#ba_s=sr_1" target="_blank"><img src="https://img.shields.io/badge/Booksy-C32032?style=flat-square&logo=booksy&logoColor=white" alt="Booksy" /></a><a href="https://maps.app.goo.gl/cY13YXtfM9Yv3cif7" target="_blank"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="G Maps" /></a><a href="https://maps.apple/p/b0SeiIhFQREtwp" target="_blank"><img src="https://img.shields.io/badge/Apple_Maps-000000?style=flat-square&logo=apple&logoColor=white" alt="A Maps" /></a>
       <p>
         <code>Branding</code> <code>Mockups</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏁 F1 Advanced Strategy Predictive Engine</h3>
-      <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" alt="Status" />
-      <p>Professional-grade F1 race strategy simulator built with Python. Runs Monte Carlo simulations to evaluate and compare pit-stop strategies under dynamic race conditions (tire degradation, fuel weight, weather, safety car). Fully containerized with Docker.</p>
-      <a href="https://github.com/javieralvzdin/strategy-sim" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://raw.githubusercontent.com/javieralvzdin/strategy-sim/main/strategy-sim.pdf" target="_blank"><img src="https://img.shields.io/badge/View_Screenshots_(PDF)-D14836?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" /></a>
-      <p>
-        <code>Python</code> <code>Streamlit</code> <code>Docker</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏎️ Assetto Corsa Real-Time Telemetry</h3>
-      <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" alt="Status" />
-      <p>Real-time telemetry pipeline for Assetto Corsa. Extracts raw data straight from the sim's physics engine via a custom C library, processes it in Python, and visualizes it live on a Grafana dashboard backed by InfluxDB. Fully containerized with Docker.</p>
-      <a href="https://github.com/javieralvzdin/ac-telemetry" target="_blank"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://raw.githubusercontent.com/javieralvzdin/ac-telemetry/main/AcTelemetry.pdf" target="_blank"><img src="https://img.shields.io/badge/View_Screenshots_(PDF)-D14836?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" /></a>
-      <p>
-        <code>C</code> <code>Python</code> <code>Docker</code> <code>Grafana</code>
       </p>
     </td>
   </tr>
